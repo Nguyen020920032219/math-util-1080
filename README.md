@@ -7,6 +7,9 @@
 * The test script to demonstrate the TDD, DDT techniques
 * The CI (Continuous Integration) script to apply CI process
 * ...
+### Screenshots
+![Source code and Unit Test](https://github.com/Nguyen020920032219/math-util-1080/blob/main/screenshots/Screenshot%20(9).png)
 
 #### Connect me via: trandinhnguyen46159@gmail.com
-##### &#69; Trần Đình Nguyên
+
+##### &#169; 2024 Trần Đình Nguyên
