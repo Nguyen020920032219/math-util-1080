@@ -1,3 +1,5 @@
+[![Math Utility Maven Project (CI applied)](https://github.com/Nguyen020920032219/math-util-1080/actions/workflows/ci-script.yml/badge.svg)](https://github.com/Nguyen020920032219/math-util-1080/actions/workflows/ci-script.yml)
+
 # Welcome to Math Utility Repository ver. 7.6.2024
 
 ## You will find in this repo the following stuff
@@ -13,3 +15,4 @@
 #### Connect me via: trandinhnguyen46159@gmail.com
 
 ##### &#169; 2024 Trần Đình Nguyên
+
