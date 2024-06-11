@@ -32,15 +32,20 @@ public class MathUtility {
         if (n < 0 || n > 20) {
             throw new IllegalArgumentException("Invalid n. n must be between 0 to 20");
         }
-
-        if (n == 0) {
+        
+        if (n == 0 || n == 1) {
             return 1;
         }
-
-        for (int i = 1; i <= n; i++) {
-            product *= i; //thuật toán nhân dồn, con heo đất - ốc bu nhồi thịt
-        }
-
-        return product;
+        
+        return n * getFactorial(n - 1);
+        //recursion - đệ quy - gọi lại chính mình với quy mô khác
     }
 }
+
+//5! = 1.2.3.4.5
+//   = 4!.5
+//4! = 1.2.3.4
+//   = 3!.4
+//.....
+//n! = n x (n - 1)! công thức đệ quy
+//búp bê người Nga
